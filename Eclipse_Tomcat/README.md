@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
-  <display-name>web97</display-name>
-  <welcome-file-list>
-    <welcome-file>index.html</welcome-file>
-    <welcome-file>index.htm</welcome-file>
-    <welcome-file>index.jsp</welcome-file>
-    <welcome-file>default.html</welcome-file>
-    <welcome-file>default.htm</welcome-file>
-    <welcome-file>default.jsp</welcome-file>
-  </welcome-file-list>
-</web-app>
+# Eclipse绑定Tomcat
+    在eclipse中service中点击连接然后选择Apach下的Tomcat8.0点下一步下一步完成
+    
+![image](http://note.youdao.com/yws/api/personal/file/34024ABE77E54B39B3130B1788E9C80A?method=download&shareKey=57ddc40aaf972efcb2fb16d6475c08c1)   
+
+
+
+
+![image](http://note.youdao.com/yws/api/personal/file/6CE4D2F2842F448492EEE63FC335B49C?method=download&shareKey=57ddc40aaf972efcb2fb16d6475c08c1)
+    
